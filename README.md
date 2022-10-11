@@ -1,2 +1,2 @@
 # MACHINE_LEARNING
-IT IS A MACHINE LEARNING PROJECT
+this project is done on basis of many projects like regression, etc.
